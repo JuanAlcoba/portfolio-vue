@@ -74,9 +74,12 @@
 </template>
 
 <script>
+
 export default {
   name: "HelloWorld",
-
+  components: {
+    
+  },
   data: () => ({
     ecosystem: [
       {
